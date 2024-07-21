@@ -1,0 +1,1 @@
+This repository replicates Annan (2024) JPE. All scripts should be run from the script titled "00_master.do." Folder structure to be created by user: The raw, anonymized data should be stored in a folder titled "00_raw_anon." The "00_raw_anon" folder should itself be in a folder where two other folders exist: "01_intermediate" and "02_final."
